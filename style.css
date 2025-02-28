@@ -32,6 +32,21 @@ body{
    }
 
    .beneficios {
-    background: #ffffff;
-    padding: 20px;
+      background: #ffffff;
+      padding: 20px;
+   }
+
+   h2 {
+    text-align: center;
+   }
+
+   ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+   }
+
+   .imagem_beneficos {
+    width: 50%;
    }
